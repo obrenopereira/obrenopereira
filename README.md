@@ -1,7 +1,7 @@
 ### Eii! Eu sou o Breno Pereira 👋
 
 - 🔭 Hoje trabalho como UI desginer
-- 🌱 Estou estudando HTML, CSS e JS
+- 🌱 Estou estudando JAVA, HTML, CSS e JS
 - 🧐 Em busca de uma migração + plus de carreira.
 - 📫 Contate-me no email: brenopereiragms@gmail.com
 
@@ -13,6 +13,8 @@ Tecnologias que venho estudando: <br>
   <img align="center" alt="Breno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Breno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Breno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 </div>
 
 ##
