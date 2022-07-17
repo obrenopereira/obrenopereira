@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como UI desginer
 - 🌱 Estou estudando JAVA, HTML, CSS e JS
-- 🧐 Em busca de uma migração + plus de carreira.
+- 🧐 Em busca de migraçaão para carreira de desenvolvimento.
 - 📫 Contate-me no email: brenopereiragms@gmail.com
 
 ##
