@@ -1,7 +1,7 @@
 ### Eii! Eu sou o Breno Pereira 👋
 
 - 🔭 Hoje trabalho como UI desginer
-- 🌱 Estou estudando JAVA, HTML, CSS e JS
+- 🌱 Estou estudando JAVA
 - 🧐 Em busca de migraçaão para carreira de desenvolvimento.
 - 📫 Contate-me no email: brenopereiragms@gmail.com
 
